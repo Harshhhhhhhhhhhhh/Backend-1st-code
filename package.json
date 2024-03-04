@@ -1,0 +1,21 @@
+{
+  "name": "chaideploy",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Harsh Raj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "experss": "^0.0.1-security",
+    "express": "^4.18.3"
+  }
+}
